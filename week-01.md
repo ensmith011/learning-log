@@ -1,0 +1,1 @@
+Where I am starting, What I've build befoer, Goal for this year, Hours i Can give
