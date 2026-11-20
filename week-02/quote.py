@@ -11,3 +11,4 @@ print('Hours Worked: ' + hours_worked)
 print('Hourly Rate: ' + hourly_rate)
 total_earning = float(hours_worked) * float(hourly_rate)
 print('Total Earnings: ' + str(total_earning))
+

@@ -1,0 +1,11 @@
+name = ("Client Name")
+hours = ("Hours")
+hourlyrate = ("Hourly Rate")
+
+print("Client Name: ", name)
+name = input(">")
+print("Hours: ", hours)
+hours = input(">")
+print("Hourly Rate: ", hourlyrate)
+hourly_rate = input(">")
+print("Quote for " + name + " is: $" + str(float(hours) * float(hourly_rate)))
