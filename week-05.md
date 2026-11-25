@@ -1,4 +1,4 @@
-# Week 4 – TouchDDesigner 2
+# Week 5 – TouchDDesigner 2
 
 Dates: Oct 24 – Nov 25
 Hours (4):
